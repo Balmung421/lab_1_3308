@@ -1,3 +1,4 @@
 To start a postgresql server without bullshit postgres password,
 use this command sudo -u postgres psql
 your test databse was practiceDBZACH
+control c to quite node js Server
