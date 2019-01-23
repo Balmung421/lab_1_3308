@@ -1,3 +1,7 @@
-# lab_1_3308
-Software Dev Course
-First Lab!
+# Lab 1 3308
+
+Setting up the environment.
+
+## Getting Started
+
+Followed directions from the given html file, which I will upload later.
